@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Решатель квадратных уравнений", "WinFormsApp2\Решатель квадратных уравнений.csproj", "{2DCBF8E3-5466-4478-8A02-6FE8335A7372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DCBF8E3-5466-4478-8A02-6FE8335A7372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCBF8E3-5466-4478-8A02-6FE8335A7372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCBF8E3-5466-4478-8A02-6FE8335A7372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCBF8E3-5466-4478-8A02-6FE8335A7372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E131E67-DDB1-45D5-905D-6E61109AED3B}
+	EndGlobalSection
+EndGlobal
